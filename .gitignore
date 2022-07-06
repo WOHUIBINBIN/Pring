@@ -1,0 +1,7 @@
+# Project exclude paths
+/pring/target/
+/spring_ioc_anno/target/
+/spring_web_demo1/target/
+/spring_web_demo2/target/
+/spring_web_demo3/target/
+/spring_web_mvc/target/
